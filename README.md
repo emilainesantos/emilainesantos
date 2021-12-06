@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @emilainesantos
-- 👀 I’m interested in ...
+- 👋 Olá, me chamo Emilaine, mas pode estar me chamando por Emi, sou estudante em Dev Front-end e aqui estão alguns projetos feitos nessa minha nova tragetoria. 
+- 👀 Como em encontrar ? Opa meu e-mail emilaine95@icloud.com
 - 🌱 I’m currently learning ...
 
 ## Oiii! Eu sou a Emi 
