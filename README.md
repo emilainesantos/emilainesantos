@@ -1,8 +1,8 @@
-- 👋 Olá, me chamo Emilaine, mas pode estar me chamando por Emi, sou estudante em Dev Front-end e aqui estão alguns projetos feitos nessa minha nova tragetoria. 
-- 👀 Como em encontrar ? Opa meu e-mail emilaine95@icloud.com
-- 🌱 I’m currently learning ...
 
-## Oiii! Eu sou a Emi 
+
+##<h3 background-color: brown >Oiii! Eu sou a Emi!! </h3>
+<h6>estou fazendo trasição de carreira para programação em foco Front-end!</h3>
+
 
  <div>
   <a href="https://github.com/emilainesantos">
@@ -27,6 +27,6 @@
   <a href = "mailto:emilaine95@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emilaine-santos-56ab87a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/emilainesantos/emilainesantos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/emilainesantos/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
