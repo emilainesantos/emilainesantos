@@ -1,7 +1,7 @@
 
-
-##<h3 background-color: brown >Oiii! Eu sou a Emi!! </h3>
-<h6>estou fazendo trasição de carreira para programação em foco Front-end!</h3>
+<div>
+<h3 background-color: brown >Oiii! Eu sou a Emi!! </h3>
+<h6>estou fazendo trasição de carreira para programação em foco Front-end!</h3> </div>
 
 
  <div>
