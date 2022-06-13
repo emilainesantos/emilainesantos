@@ -1,8 +1,8 @@
 
 <div>
-<h3 background-color: brown >Oiii! Eu sou a Emi!! </h3>
-<h6>estou fazendo trasição de carreira para programação em foco Front-end!</h3> </div>
-
+<h3 background-color: brown >Oiii, eu sou a Emi!! </h3>
+<h6>Estou fazendo trasição de carreira para programação em foco Front-end, para me especializar em desenvolvedora web/mobile!</h3> </div>
+Cancel changes
 
  <div>
   <a href="https://github.com/emilainesantos">
