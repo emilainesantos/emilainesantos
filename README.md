@@ -1,6 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=didot&color=A712CF&background=FFFFFF00&lines=Ol%C3%A1!!+Me+chamo%2C+Emi.;+Dev.+front-end+mobile%2Fweb.)](https://git.io/typing-svg)
 
 <div>
-<h3  >Oiii, eu sou a Emi!! :raising_hand:  :computer: </h3>
+ :raising_hand:  :computer: 
 <h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar em desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h4> </div>
 
 
