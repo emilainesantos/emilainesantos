@@ -1,8 +1,8 @@
 
 <div>
-<h3  >Oiii, eu sou a Emi!! </h3>
+<h3  >Oiii, eu sou a Emi!! :raising_hand:  :computer: </h3>
 <h6>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar em desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h6> </div>
-Cancel changes
+
 
  <div>
   <a href="https://github.com/emilainesantos">
