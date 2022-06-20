@@ -1,7 +1,7 @@
 
 <div>
-<h3 background-color: brown >Oiii, eu sou a Emi!! </h3>
-<h6>Estou fazendo trasição de carreira para programação em foco Front-end, para me especializar em desenvolvedora web/mobile!</h3> </div>
+<h3  >Oiii, eu sou a Emi!! </h3>
+<h6>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar em desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h6> </div>
 Cancel changes
 
  <div>
