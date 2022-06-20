@@ -5,7 +5,13 @@
 <h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar em desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h4> </div>
 
 
+
+ 
+ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
  <div>
+  
   <a href="https://github.com/emilainesantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilainesantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilainesantos&layout=compact&langs_count=7&theme=dracula"/>
