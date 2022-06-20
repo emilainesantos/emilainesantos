@@ -2,11 +2,8 @@
 
 <div>
  :raising_hand:  :computer: 
-<h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar em desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h4> </div>
+<h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar como Desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h4> </div>
 
-
-
- 
  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
