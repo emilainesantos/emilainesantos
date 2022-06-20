@@ -1,7 +1,7 @@
 
 <div>
 <h3  >Oiii, eu sou a Emi!! :raising_hand:  :computer: </h3>
-<h6>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar em desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h6> </div>
+<h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar em desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h4> </div>
 
 
  <div>
