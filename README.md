@@ -3,21 +3,25 @@
 <div>
  :raising_hand:  :computer: 
 <h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar como Desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h4> 
- </div>
  
+ <div>
+
+    
+  - Pronomes Ela/Ella/She 🌼
+  - Front-end pela Faculdade Impacta 🚀 
+  - Apaixonada por programação  ❤
+  - Estudante de ADS 👩🏾‍💻 
+  - Contact 👇🏾 </h4>
+  </div>
+   
  <div> 
   
   <a href="https://instagram.com/iamemilaine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:emilaine95@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emilaine-santos-56ab87a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
- 
+  
 </div>
-
-
-
-
+ <hr>
 
  <div>
   
@@ -26,29 +30,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilainesantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Emi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Emi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Emi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Emi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+<hr>
  
  <div align="center" > 
 
 <img align="leaft" alt="Gif" height="300" width="1800" style="border-radius:50px;"  src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif">
 
 </div>
-<hr>
+  
 
-  
-  ##
- 
-<div> 
-  
-  <a href="https://instagram.com/iamemilaine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:emilaine95@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emilaine-santos-56ab87a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
  
   ![Snake animation](https://github.com/emilainesantos/emilainesantos/blob/output/github-contribution-grid-snake.svg)
  
-</div>
