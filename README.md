@@ -3,7 +3,7 @@
 <div>
  :raising_hand:  :computer: 
 <h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar como Pessoa Desenvolvedora web/mobile
- que se tornou uma paixão no primeiro contato, assim como objetivo de aprender para poder ajudar outras mulheres e pessoas de baixa renda. <3 !</h4> 
+ que se tornou uma paixão no primeiro contato, assim como objetivo de aprender para poder contribuir no aprendizado com outras mulheres e pessoas de baixa renda. <3 !</h4> 
  
  <div>
 
