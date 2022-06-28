@@ -2,10 +2,11 @@
 
 <div>
  :raising_hand:  :computer: 
-<h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar como Desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h4> </div>
+<h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar como Desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h4> 
+ </div>
 
- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+
 
  <div>
   
@@ -16,12 +17,18 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Emi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Emi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Emi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
  
-  <img align="right" alt="Emi-yoda" height="150em" src="http://1.bp.blogspot.com/-CoZbFSfrCvE/UV3Cj9j5zjI/AAAAAAAAAns/4MVv0FVd7wA/s320/chuunibyou-demo-koi-ga-shitai-1-takanashi-rikka-finger-twirl1.gif">
+ <div align="center" > 
+
+<img align="leaft" alt="Gif" height="300" width="1800" style="border-radius:50px;"  src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif">
+
 </div>
+<hr>
+
   
   ##
  
