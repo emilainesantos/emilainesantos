@@ -2,7 +2,8 @@
 
 <div>
  :raising_hand:  :computer: 
-<h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar como Desenvolvedora web/mobile que se tornou uma paixão no primeiro contato <3 !</h4> 
+<h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar como Pessoa Desenvolvedora web/mobile
+ que se tornou uma paixão no primeiro contato, assim como objetivo de aprender para poder ajudar outras mulheres e pessoas de baixa renda. <3 !</h4> 
  
  <div>
 
@@ -23,21 +24,19 @@
 </div>
  <hr>
 
- <div>
-  
-  <a href="https://github.com/emilainesantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilainesantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilainesantos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<hr>
  
  <div align="center" > 
 
-<img align="leaft" alt="Gif" height="300" width="1800" style="border-radius:50px;"  src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif">
+<img align="leaft" alt="Gif" height="300" width="1800" style="border-radius:50px;"  src="https://camo.githubusercontent.com/ccec72fca14f2b8f0ccda34abed28e38f64951d034fdb86e92ea254f1f448b61/68747470733a2f2f632e74656e6f722e636f6d2f59475f4a7a345151464e4941414141432f706978656c2d6172742d726f6f6d2e676966">
 
 </div>
+  <hr>
   
+<div>
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emilainesantos&theme=radical"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=emilainesantos&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilainesantos&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=isabellylemos&theme=radical&hide_border=true"/>
+   
+ </div>  
 
 
 
