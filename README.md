@@ -26,7 +26,7 @@
  
  <div align="center" > 
 
-<img align="leaft" alt="Gif" height="300" width="900" style="border-radius:50px;"  src="https://camo.githubusercontent.com/ccec72fca14f2b8f0ccda34abed28e38f64951d034fdb86e92ea254f1f448b61/68747470733a2f2f632e74656e6f722e636f6d2f59475f4a7a345151464e4941414141432f706978656c2d6172742d726f6f6d2e676966">
+<img align="leaft" alt="Gif" height="100" width="900" style="border-radius:50px;"  src="https://camo.githubusercontent.com/ccec72fca14f2b8f0ccda34abed28e38f64951d034fdb86e92ea254f1f448b61/68747470733a2f2f632e74656e6f722e636f6d2f59475f4a7a345151464e4941414141432f706978656c2d6172742d726f6f6d2e676966">
 
 </div>
   <hr>
