@@ -1,11 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=didot&color=A712CF&background=FFFFFF00&lines=Ol%C3%A1!!+Me+chamo%2C+Emi.;+Dev.+front-end+mobile%2Fweb.)](https://git.io/typing-svg)
 
-<div>
- :raising_hand:  :computer: 
-<h4>Estou fazendo transição de carreira para programação em foco Front-end, para me especializar como Pessoa Desenvolvedora web/mobile
- que se tornou uma paixão no primeiro contato.<3 !</h4>
- <div>
-
     
   - Pronomes Ela/Ella/She 🌼
   - Front-end pela Faculdade Impacta 🚀 
@@ -26,7 +20,7 @@
  
  <div align="center" > 
 
-<img align="leaft" alt="Gif" height="100" width="900" style="border-radius:50px;"  src="https://camo.githubusercontent.com/ccec72fca14f2b8f0ccda34abed28e38f64951d034fdb86e92ea254f1f448b61/68747470733a2f2f632e74656e6f722e636f6d2f59475f4a7a345151464e4941414141432f706978656c2d6172742d726f6f6d2e676966">
+<img align="leaft" alt="Gif" height="150" width="900"   src="https://camo.githubusercontent.com/ccec72fca14f2b8f0ccda34abed28e38f64951d034fdb86e92ea254f1f448b61/68747470733a2f2f632e74656e6f722e636f6d2f59475f4a7a345151464e4941414141432f706978656c2d6172742d726f6f6d2e676966">
 
 </div>
   <hr>
@@ -40,5 +34,5 @@
 
 
  
-  ![Snake animation](https://github.com/emilainesantos/emilainesantos/blob/output/github-contribution-grid-snake.svg)
+
  
