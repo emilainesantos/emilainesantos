@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=didot&color=A712CF&background=FFFFFF00&lines=Ol%C3%A1!!+Me+chamo%2C+Emi.;+Dev.+front-end+mobile%2Fweb.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=didot&color=A712CF&background=FFFFFF00&lines=Ol%C3%A1!!+Meee+chamo%2C+Emi.;+Dev.+front-end+mobile%2Fweb.)](https://git.io/typing-svg)
 
     
   - Pronomes Ela/Ella/She 🌼
