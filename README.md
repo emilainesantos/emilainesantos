@@ -17,7 +17,11 @@
 
 <div align="center" height="5px"> 
 <img src="https://github.com/user-attachments/assets/6c1c0449-4dca-4d08-b673-0010d5053640" width="300" height="150">
-<h3> APEX | LWC | JAVASCRIPT | DATA CLOUD | IA  </h3>
+<h3> APEX | LWC | JAVASCRIPT | DATA CLOUD | IA | RANGER | 2XSUPERBADGE </h3>
+<a href="https://www.salesforce.com/trailblazer/emilainesantos" target="_blank"> <img height="100em" src="https://github.com/user-attachments/assets/eaf4b676-90e6-47fa-860a-4f1c64930d7f" target="_blank">
+   <h4>
+      <a href="https://www.salesforce.com/trailblazer/emilainesantos" target="_blank"> Perfil trailblazer</h4>
+</a>
 </div>
 
   <hr>
